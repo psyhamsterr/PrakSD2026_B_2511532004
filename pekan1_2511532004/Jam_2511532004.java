@@ -1,4 +1,4 @@
-package pekan1_22511532004;
+package pekan1_2511532004;
 
 public class Jam_2511532004 {
 	private int hh;

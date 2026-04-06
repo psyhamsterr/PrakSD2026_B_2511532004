@@ -1,6 +1,6 @@
 package pekan1_2511532004;
 import java.util.Scanner;
-10
+
 public class JamDriver2_2511532004 {
 
     public static void main(String[] args) { 
